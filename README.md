@@ -10,9 +10,15 @@ Currently open to **SWE / ML Engineering internships**.
 
 ## 🔨 What I'm Building
 
-[**feature-forge**](https://github.com/Spandan-139/feature-forge) — A production-style ML Feature Store inspired by Uber's Michelangelo and Google's Feast. Offline/online serving, model registry, real-time monitoring. Stack: Polars, DuckDB, Redis, FastAPI, MLflow, Docker. Dataset: 2.7M NYC Taxi trips. [Live Demo →](https://huggingface.co/spaces/Spandan-139/feature-forge)
+[**feature-forge**](https://github.com/Spandan-139/feature-forge) — Production-style ML Feature Store inspired by Uber's Michelangelo. Offline/online serving, model registry, real-time monitoring. Stack: Polars, DuckDB, Redis, FastAPI, MLflow, Docker. [Live Demo →](https://huggingface.co/spaces/Spandan-139/feature-forge)
 
-[**dataflow**](https://github.com/Spandan-139/dataflow) — An ELT Analytics Platform built on GitHub Archive data with medallion architecture (Bronze/Silver/Gold), Prefect orchestration, and DuckDB warehouse. Stack: Polars, DuckDB, Prefect, FastAPI, Streamlit. Dataset: 169k real GitHub events. [Live Demo →](https://huggingface.co/spaces/Spandan-139/dataflow)
+[**dataflow**](https://github.com/Spandan-139/dataflow) — ELT Analytics Platform on GitHub Archive data with medallion architecture (Bronze/Silver/Gold), Prefect orchestration, DuckDB warehouse. Stack: Polars, DuckDB, Prefect, FastAPI, Streamlit. [Live Demo →](https://huggingface.co/spaces/Spandan-139/dataflow)
+
+[**workflow-engine-fastapi**](https://github.com/Spandan-139/workflow-engine-fastapi) — Graph-based workflow engine for ML/LLM/data pipelines. Supports branching, loops, shared state, and a pluggable tool/node registry. Built with FastAPI.
+
+[**documind**](https://github.com/Spandan-139/documind) — Multimodal RAG system that processes PDFs, PPTX, images, and audio. FAISS vector search, local LLM inference via Ollama, streaming responses.
+
+[**Unnati**](https://github.com/Spandan-139/Unnati) — AI-powered adaptive learning platform built for the Intel Unnati Program. Generates personalized courses, streams lesson content, and auto-generates quizzes using local LLMs.
 
 [**dsa-grind**](https://github.com/Spandan-139/dsa-grind) — Systematic DSA practice in Python. Auto-synced from LeetCode via LeetHub. README auto-updates on every solve.
 
